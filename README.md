@@ -20,6 +20,9 @@ Make your URLs stand out with our easy to use free link shortener above.
 - Receive an error message when the `form` is submitted if:
   - The `input` field is empty
 
+## Built With
+.React
+.TailwindCSS
 
 ## Deploying the project
 
