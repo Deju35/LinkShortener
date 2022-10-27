@@ -25,6 +25,8 @@ Make your URLs stand out with our easy to use free link shortener above.
 -TailwindCSS
 
  -[Live Site] (https://deju35.github.io/LinkShortener/)
+ - [GitHub Pages](https://pages.github.com/)
+
 
 As mentioned above, there are many ways to host your project for free. Our recommend hosts are:
 
