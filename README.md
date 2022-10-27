@@ -21,8 +21,8 @@ Make your URLs stand out with our easy to use free link shortener above.
   - The `input` field is empty
 
 ## Built With
-.React
-.TailwindCSS
+-React
+-TailwindCSS
 
 ## Deploying the project
 
