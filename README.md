@@ -1,3 +1,4 @@
+![shortly](https://user-images.githubusercontent.com/107037555/199207010-12a78449-114a-4ae2-83a1-70ab60798ea3.jpg)
 # LinkShortener seems like a simple tool, but it is a service that can have a dramatic impact on your marketing efforts.
 
 Link shorteners work by transforming any long URL into a shorter, more readable link. When a user clicks the shortened version, they’re automatically forwarded to the destination URL.
