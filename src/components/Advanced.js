@@ -27,7 +27,7 @@ const Advanced = () => {
                 <img src={records} alt=""
                 className="p-4 -mt-12 bg-slate-800 rounded-full"
                 />
-                <h3 className="text-slate-800 text-lg mt-5 mb-2 font-bold">
+                <h3 className="text-slate-800 text-lg mt-5 mb-2 font-bolddfkdfjkdfjkdf">
                 Detailed Records
                 </h3>
                 <p className="text-slate 400 text-sm">
